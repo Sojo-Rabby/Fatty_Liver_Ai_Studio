@@ -1,0 +1,5 @@
+{
+  "name": "Fatty Liver Risk Assessment",
+  "description": "A comprehensive Bengali-language tool for assessing fatty liver risk based on physical stats, medical history, and clinical scores like FIB-4.",
+  "requestFramePermissions": []
+}
